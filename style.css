@@ -12,5 +12,8 @@
      }
     h1 { font-family: times;
       color: red;
- 
      }
+
+ body {
+  background-image: url("imagens/fundo.gif");
+}
