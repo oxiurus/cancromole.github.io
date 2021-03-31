@@ -2,11 +2,15 @@
       font-family: "arial";
       src: url("/fonts/ARIAL.woff");
      }
-      @font-face {
+  @font-face {
       font-family: "comic";
       src: url("/fonts/COMIC.woff");
      }
-    h1 { font-family: comic;
-      color: blue;
+  @font-face {
+      font-family: "times";
+      src: url("/fonts/TIMES.woff");
+     }
+    h1 { font-family: times;
+      color: red;
  
      }
