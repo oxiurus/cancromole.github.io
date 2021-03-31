@@ -17,3 +17,10 @@
  body {
   background-image: url("imagens/fundo.gif");
 }
+
+<!--classes>
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
