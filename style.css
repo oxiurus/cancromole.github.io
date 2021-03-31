@@ -6,7 +6,7 @@
       font-family: "comic";
       src: url("/fonts/COMIC.woff");
      }
-    h1 { font-family: comic
-      color: blue
+    h1 { font-family: comic;
+      color: blue;
  
      }
