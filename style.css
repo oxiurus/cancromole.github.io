@@ -7,4 +7,6 @@
       src: url("/fonts/COMIC.woff");
      }
     h1 { font-family: comic
+      color: blue
+ 
      }
