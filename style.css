@@ -4,23 +4,16 @@
      }
   @font-face {
       font-family: "comic";
-      src: url("/fonts/COMIC.woff");
+      src: url("/fonts/ComicMS.woff");
      }
   @font-face {
       font-family: "times";
       src: url("/fonts/TIMES.woff");
      }
-    h1 { font-family: times;
-      color: red;
+    h1 { font-family: comic;
+      color: pink;
      }
 
  body {
   background-image: url("imagens/fundo.gif");
-}
-
-<!--classes>
-
-.responsive {
-  width: 100%;
-  height: auto;
 }
