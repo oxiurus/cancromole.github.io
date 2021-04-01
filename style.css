@@ -1,4 +1,6 @@
-  @font-face {
+<!-- Fontes personalizadas e aplicadas -->  
+
+@font-face {
       font-family: "arial";
       src: url("/fonts/ARIAL.woff");
      }
@@ -18,6 +20,26 @@
       color: black;
      }
 
+<!-- Plano de fundo -->
+
  body {
   background-image: url("imagens/fundo.gif");
+}
+
+<!-- Class de tabela -->
+
+.velhot {
+    margin: 0 auto; /* this centers the nav bar, which is a table */
+    border-top: 1px solid #c0c0c0;
+    border-left: 1px solid #c0c0c0;
+    border-bottom: 1px solid #808080;
+    border-right: 1px solid #808080;
+}
+.velho {
+    padding: 5px;
+    border-top: 1px solid #808080;
+    border-left: 1px solid #808080;
+    border-bottom: 1px solid #c0c0c0;
+    border-right: 1px solid #c0c0c0;
+    background: rgba(255, 255, 255, 0.5); /* semi-transparent white */
 }
