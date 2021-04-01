@@ -28,14 +28,22 @@
 
 /* Class de tabela */
 
-.tablev {
+table.table1 {
     margin: 0 auto; /* this centers the nav bar, which is a table */
     border-top: 1px solid #c0c0c0;
     border-left: 1px solid #c0c0c0;
     border-bottom: 1px solid #808080;
     border-right: 1px solid #808080;
 }
-.tdtrv {
+td.table1 {
+    padding: 5px;
+    border-top: 1px solid #808080;
+    border-left: 1px solid #808080;
+    border-bottom: 1px solid #c0c0c0;
+    border-right: 1px solid #c0c0c0;
+    background: rgba(255, 255, 255, 0.5); /* semi-transparent white */
+}
+tr.table1 {
     padding: 5px;
     border-top: 1px solid #808080;
     border-left: 1px solid #808080;
