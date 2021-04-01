@@ -1,4 +1,4 @@
-<!-- Fontes personalizadas e aplicadas -->  
+/* Fontes personalizadas e aplicadas */
 
 @font-face {
       font-family: "arial";
@@ -20,22 +20,22 @@
       color: black;
      }
 
-<!-- Plano de fundo -->
+/* Plano de fundo */
 
  body {
   background-image: url("imagens/fundo.gif");
 }
 
-<!-- Class de tabela -->
+/* Class de tabela */
 
-.velhot {
+.tablev {
     margin: 0 auto; /* this centers the nav bar, which is a table */
     border-top: 1px solid #c0c0c0;
     border-left: 1px solid #c0c0c0;
     border-bottom: 1px solid #808080;
     border-right: 1px solid #808080;
 }
-.velho {
+.tdtrv {
     padding: 5px;
     border-top: 1px solid #808080;
     border-left: 1px solid #808080;
