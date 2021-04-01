@@ -34,6 +34,7 @@ table.table1 {
     border-left: 1px solid #c0c0c0;
     border-bottom: 1px solid #808080;
     border-right: 1px solid #808080;
+      background-color:cornsilk;
 }
 td.table1 {
     padding: 5px;
