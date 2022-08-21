@@ -2,15 +2,15 @@
 
 @font-face {
       font-family: "arial";
-      src: url("oxiurus.github.io/fonts/ARIAL.woff");
+      src: url("/fonts/ARIAL.woff");
      }
   @font-face {
       font-family: "comic";
-      src: url("oxiurus.github.io/fonts/ComicMS.woff");
+      src: url("/fonts/ComicMS.woff");
      }
   @font-face {
       font-family: "times";
-      src: url("oxiurus.github.io/fonts/TIMES.woff");
+      src: url("/fonts/TIMES.woff");
      }
     h1 { font-family:comic;
       color: DeepPink;
