@@ -2,15 +2,15 @@
 
 @font-face {
       font-family: "arial";
-      src: url("/fonts/ARIAL.woff");
+      src: url("oxiurus.github.io/fonts/ARIAL.woff");
      }
   @font-face {
       font-family: "comic";
-      src: url("/fonts/ComicMS.woff");
+      src: url("oxiurus.github.io/fonts/ComicMS.woff");
      }
   @font-face {
       font-family: "times";
-      src: url("/fonts/TIMES.woff");
+      src: url("oxiurus.github.io/fonts/TIMES.woff");
      }
     h1 { font-family:comic;
       color: DeepPink;
@@ -23,7 +23,7 @@
 /* Plano de fundo */
 
  body {
-  background-image: url("imagens/fundo.gif");
+  background-image: url("fundo.gif");
 }
 
 /* Class de tabela */
@@ -34,7 +34,7 @@ table.table1 {
     border-left: 1px solid #c0c0c0;
     border-bottom: 1px solid #808080;
     border-right: 1px solid #808080;
-      background: url("/imagens/greenred_marble.gif");
+      background: url("fundotabela.png");
 }
 td.table1 {
     padding: 5px;
