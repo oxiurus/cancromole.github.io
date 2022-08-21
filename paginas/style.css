@@ -1,0 +1,52 @@
+/* Fontes personalizadas e aplicadas */
+
+@font-face {
+      font-family: "arial";
+      src: url("/fonts/ARIAL.woff");
+     }
+  @font-face {
+      font-family: "comic";
+      src: url("/fonts/ComicMS.woff");
+     }
+  @font-face {
+      font-family: "times";
+      src: url("/fonts/TIMES.woff");
+     }
+    h1 { font-family:comic;
+      color: DeepPink;
+     }
+
+    p { font-family:comic;
+      color: black;
+     }
+
+/* Plano de fundo */
+
+ body {
+  background-image: url("imagens/fundo.gif");
+}
+
+/* Class de tabela */
+
+table.table1 {
+    margin: 0 auto; /* this centers the nav bar, which is a table */
+    border-top: 1px solid #c0c0c0;
+    border-left: 1px solid #c0c0c0;
+    border-bottom: 1px solid #808080;
+    border-right: 1px solid #808080;
+      background: url("/imagens/greenred_marble.gif");
+}
+td.table1 {
+    padding: 5px;
+    border-top: 1px solid #808080;
+    border-left: 1px solid #808080;
+    border-bottom: 1px solid #c0c0c0;
+    border-right: 1px solid #c0c0c0;
+}
+tr.table1 {
+    padding: 5px;
+    border-top: 1px solid #808080;
+    border-left: 1px solid #808080;
+    border-bottom: 1px solid #c0c0c0;
+    border-right: 1px solid #c0c0c0;
+}
