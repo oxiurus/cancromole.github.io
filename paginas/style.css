@@ -23,7 +23,7 @@
 /* Plano de fundo */
 
  body {
-  background-image: url("fundo.gif");
+  background-image: url("/paginas/fundo.gif");
 }
 
 /* Class de tabela */
@@ -34,7 +34,7 @@ table.table1 {
     border-left: 1px solid #c0c0c0;
     border-bottom: 1px solid #808080;
     border-right: 1px solid #808080;
-      background: url("fundotabela.png");
+      background: url("/paginas/fundotabela.png");
 }
 td.table1 {
     padding: 5px;
